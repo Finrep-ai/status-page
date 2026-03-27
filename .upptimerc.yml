@@ -4,7 +4,7 @@ repo: status-page # The name of this repository
 
 sites:
   - name: DMT Backend
-    url: https://dmt-api.finrep.ai
+    url: https://dmt-api.finrep.ai/admin
   - name: LiteLLM
     url: https://litellm.finrep.ai
   - name: Langfuse
