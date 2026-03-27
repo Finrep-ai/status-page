@@ -1,22 +1,22 @@
 [
   {
     "name": "DMT Backend",
-    "url": "https://dmt-api.finrep.ai",
+    "url": "https://dmt-api.finrep.ai/admin",
     "icon": "https://icons.duckduckgo.com/ip3/dmt-api.finrep.ai.ico",
     "slug": "dmt-backend",
-    "status": "down",
-    "uptime": "3.65%",
-    "uptimeDay": "3.65%",
-    "uptimeWeek": "3.65%",
-    "uptimeMonth": "3.65%",
-    "uptimeYear": "3.65%",
-    "time": 258,
-    "timeDay": 258,
-    "timeWeek": 258,
-    "timeMonth": 258,
-    "timeYear": 258,
+    "status": "up",
+    "uptime": "2.25%",
+    "uptimeDay": "2.25%",
+    "uptimeWeek": "2.25%",
+    "uptimeMonth": "2.25%",
+    "uptimeYear": "2.25%",
+    "time": 591,
+    "timeDay": 591,
+    "timeWeek": 591,
+    "timeMonth": 591,
+    "timeYear": 591,
     "dailyMinutesDown": {
-      "2026-03-27": 0
+      "2026-03-27": 3
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 318,
-    "timeWeek": 318,
-    "timeMonth": 318,
-    "timeYear": 318,
+    "time": 326,
+    "timeDay": 326,
+    "timeWeek": 326,
+    "timeMonth": 326,
+    "timeYear": 326,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 274,
-    "timeWeek": 274,
-    "timeMonth": 274,
-    "timeYear": 274,
+    "time": 272,
+    "timeDay": 272,
+    "timeWeek": 272,
+    "timeMonth": 272,
+    "timeYear": 272,
     "dailyMinutesDown": {}
   }
 ]
