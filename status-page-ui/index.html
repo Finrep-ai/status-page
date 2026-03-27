@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Live service status for Finrep systems, powered by public Upptime data."
+    />
+    <title>Finrep Status</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=DM+Sans:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="bg-orb orb-1" aria-hidden="true"></div>
+    <div class="bg-orb orb-2" aria-hidden="true"></div>
+    <div class="bg-grid" aria-hidden="true"></div>
+
+    <main class="app-shell">
+      <header class="hero">
+        <p class="eyebrow">System Reliability</p>
+        <h1>Finrep Status</h1>
+        <p id="overall-status" class="overall-status">Loading latest health data...</p>
+
+        <div id="metrics" class="metrics" aria-live="polite"></div>
+      </header>
+
+      <section>
+        <div class="section-head">
+          <h2>Monitored Services</h2>
+          <button id="refresh-btn" class="refresh-btn" type="button">Refresh</button>
+        </div>
+        <div id="services" class="services" aria-live="polite"></div>
+      </section>
+
+      <section class="timeline-section">
+        <div class="section-head">
+          <h2>90-Day Timeline</h2>
+        </div>
+        <div id="timelines" class="timelines" aria-live="polite"></div>
+      </section>
+
+      <footer class="footer">
+        <p id="last-refresh">Last refresh: --</p>
+        <p>
+          Source:
+          <a
+            id="summary-link"
+            href="https://raw.githubusercontent.com/Finrep-ai/status-page/master/history/summary.json"
+            target="_blank"
+            rel="noreferrer"
+            >history/summary.json</a
+          >
+        </p>
+      </footer>
+    </main>
+
+    <template id="service-card-template">
+      <article class="service-card">
+        <div class="card-top">
+          <div>
+            <h3 class="service-name"></h3>
+            <a class="service-url" target="_blank" rel="noreferrer"></a>
+          </div>
+          <span class="service-badge"></span>
+        </div>
+
+        <div class="pills"></div>
+
+        <div class="card-meta">
+          <span class="meta-code"></span>
+          <span class="meta-update"></span>
+        </div>
+      </article>
+    </template>
+
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>
