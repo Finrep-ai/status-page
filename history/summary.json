@@ -24,18 +24,20 @@
     "url": "https://litellm.finrep.ai",
     "icon": "https://icons.duckduckgo.com/ip3/litellm.finrep.ai.ico",
     "slug": "lite-llm",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 337,
-    "timeDay": 265,
-    "timeWeek": 352,
-    "timeMonth": 337,
-    "timeYear": 337,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "98.07%",
+    "uptimeDay": "60.73%",
+    "uptimeWeek": "94.39%",
+    "uptimeMonth": "98.07%",
+    "uptimeYear": "98.07%",
+    "time": 334,
+    "timeDay": 260,
+    "timeWeek": 340,
+    "timeMonth": 334,
+    "timeYear": 334,
+    "dailyMinutesDown": {
+      "2026-04-16": 566
+    }
   },
   {
     "name": "Langfuse",
