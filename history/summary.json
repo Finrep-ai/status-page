@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 788,
-    "timeDay": 938,
-    "timeWeek": 758,
-    "timeMonth": 788,
-    "timeYear": 788,
+    "time": 783,
+    "timeDay": 673,
+    "timeWeek": 748,
+    "timeMonth": 783,
+    "timeYear": 783,
     "dailyMinutesDown": {
       "2026-03-27": 3
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/litellm.finrep.ai.ico",
     "slug": "lite-llm",
     "status": "up",
-    "uptime": "98.09%",
-    "uptimeDay": "60.73%",
+    "uptime": "98.18%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "94.39%",
-    "uptimeMonth": "98.09%",
-    "uptimeYear": "98.09%",
-    "time": 331,
-    "timeDay": 261,
-    "timeWeek": 280,
-    "timeMonth": 331,
-    "timeYear": 331,
+    "uptimeMonth": "98.18%",
+    "uptimeYear": "98.18%",
+    "time": 320,
+    "timeDay": 51,
+    "timeWeek": 242,
+    "timeMonth": 320,
+    "timeYear": 320,
     "dailyMinutesDown": {
       "2026-04-16": 566
     }
@@ -51,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 307,
-    "timeDay": 296,
-    "timeWeek": 302,
+    "timeDay": 326,
+    "timeWeek": 309,
     "timeMonth": 307,
     "timeYear": 307,
     "dailyMinutesDown": {}
