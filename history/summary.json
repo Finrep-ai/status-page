@@ -24,18 +24,19 @@
     "url": "https://litellm.finrep.ai",
     "icon": "https://icons.duckduckgo.com/ip3/litellm.finrep.ai.ico",
     "slug": "lite-llm",
-    "status": "up",
-    "uptime": "98.33%",
+    "status": "down",
+    "uptime": "98.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.39%",
-    "uptimeMonth": "98.33%",
-    "uptimeYear": "98.33%",
+    "uptimeMonth": "98.37%",
+    "uptimeYear": "98.37%",
     "time": 310,
     "timeDay": 93,
     "timeWeek": 201,
     "timeMonth": 310,
     "timeYear": 310,
     "dailyMinutesDown": {
+      "2026-04-20": 0,
       "2026-04-16": 566
     }
   },
