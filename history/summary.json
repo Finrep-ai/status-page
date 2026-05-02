@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/litellm.finrep.ai.ico",
     "slug": "lite-llm",
     "status": "down",
-    "uptime": "66.59%",
+    "uptime": "65.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "60.96%",
-    "uptimeYear": "66.59%",
+    "uptimeMonth": "59.75%",
+    "uptimeYear": "65.91%",
     "time": 310,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 291,
     "timeYear": 310,
     "dailyMinutesDown": {
-      "2026-05-02": 17,
+      "2026-05-02": 547,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
@@ -57,7 +57,7 @@
     "url": "https://langfuse.finrep.ai",
     "icon": "https://icons.duckduckgo.com/ip3/langfuse.finrep.ai.ico",
     "slug": "langfuse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -68,6 +68,8 @@
     "timeWeek": 296,
     "timeMonth": 303,
     "timeYear": 304,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-02": 0
+    }
   }
 ]
